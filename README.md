@@ -1,0 +1,14 @@
+# bluejay-user 12 SD2A.220601.001.A1 8824690 release-keys
+- manufacturer: google
+- platform: gs101
+- codename: bluejay
+- flavor: bluejay-user
+- release: 12
+- id: SD2A.220601.001.A1
+- incremental: 8824690
+- tags: release-keys
+- fingerprint: google/bluejay/bluejay:12/SD2A.220601.001.A1/8824690:user/release-keys
+- is_ab: true
+- brand: google
+- branch: bluejay-user-12-SD2A.220601.001.A1-8824690-release-keys
+- repo: google_bluejay_dump
