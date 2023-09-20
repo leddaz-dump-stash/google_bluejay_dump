@@ -1,0 +1,14 @@
+# bluejay_beta-user 14 U1B1.230908.003 10811961 release-keys
+- manufacturer: google
+- platform: gs101
+- codename: bluejay
+- flavor: bluejay_beta-user
+- release: 14
+- id: U1B1.230908.003
+- incremental: 10811961
+- tags: release-keys
+- fingerprint: google/bluejay_beta/bluejay:14/U1B1.230908.003/10811961:user/release-keys
+- is_ab: true
+- brand: google
+- branch: bluejay_beta-user-14-U1B1.230908.003-10811961-release-keys
+- repo: google_bluejay_dump
